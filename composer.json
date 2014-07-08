@@ -1,0 +1,14 @@
+{
+    "name": "ranacseruet/smarty",
+    "type": "library",
+    "description": "An approach to Add smarty library as a composer package",
+    "keywords": ["smarty", "php"],
+    "homepage": "https://github.com/ranacseruet/smarty",
+    "license": "MPL",
+    "authors": [
+        {"name": "Md Ali Ahsan Rana", "email": "rana@codesamplez.com", "homepage": "https://github.com/ranacseruet"}
+    ],
+    "autoload": {
+        "classmap": ["libs/Smarty.class.php"]
+    }
+}
